@@ -8,7 +8,7 @@ Codes relating to MH4900 Final Year Project: "AI models for the Early Detection 
 ## Models
 Original pre-trained models were sourced from:
   * Vision Transformer (ViT-B/16 Feature Extractor model) : https://github.com/tensorflow/tfhub.dev/blob/master/assets/docs/sayakpaul/collections/vision_transformer/1.md
-     * Note model file not included duue to large size
+     * Note model file not included due to large size
      * Tensorflow version of model can be downloaded from https://www.kaggle.com/models/spsayakpaul/vision-transformer/tensorFlow2/vit-b16-fe/1?tfhub-redirect=true 
   * Vision Graph Neural Network (ViG-Ti model): https://github.com/jichengyuan/Vision_GNN/tree/main
      * Vision_GNN-main.zip
